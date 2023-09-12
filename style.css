@@ -103,16 +103,10 @@ button {
 }
 @media(max-width:500px){
     header{
-       border: 
-       2px solid;
-       width: 100%;
-       height: 12vh;
-    }
-    body{
         width: 100%;
-        background:linear-gradient(154.76deg, #628E75 3%, #1A4855 84.12%);
-    }
-    .logo{
+        height: 12vh;
+     }
+     .logo{
         margin: 2rem;
     }
     li a img{
@@ -124,30 +118,58 @@ button {
         margin-left: 3rem;
     }
     main{
-        flex-direction:column-reverse;
-        height: 150vh;
-        margin-top:4rem ;
+        margin-left: 1.1rem;
+        flex-direction: column-reverse;
+        margin-top: 20vh;
+        width:80vw;
+        margin-left: 2rem;
+   }
+   .primeira{
+    width: 80vw;
+    margin-bottom: 5rem;
+   }
 
-    }
-    .terceira{
-
-    }
-    .terceira img{
-        width: 67vw;
-        height:50vh;
-        border: solid 2px;
-        margin-bottom: 10rem;
-        margin-left: 1rem;
-    }
-    .primeira{
-        border: 2px solid;
-       
-    }
-    h4{
-        font-size: 15px;
-        margin-top: 3rem;
-    }
+   h4{
+    font-size: 18px;
+    
+   }
    h1{
-    font-size: 50px;
+    font-size: 45px;
+   }
+   p{
+    font-size: 10px;
+    width: 90vw;
+    height: 10vh;
+   }
+   .terceira{
+    height: 12vh;
+    margin-bottom: 11rem;
+   }
+   .terceira img{
+    width: 66vw;
+    height: 42vh;
+   }
+   #botao2{
+    display: none;
+   }
+   button{
+    border: 3px solid #658e76;
+    width: 48vw;
+    height:6vh;
+    margin-left:0.4rem;
+    margin-top: 1rem;
+
+   }
+   button img{
+    width: 12px;
+    margin-left: 2px;
+   }
+   .botao{
+    font-size: 11.4px;
+    width: 55vw;
+    height: 5vh;
+    margin-left: 1.2px;
+    margin-right: 6px;
+
    }
 }

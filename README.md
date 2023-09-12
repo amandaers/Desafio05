@@ -18,3 +18,6 @@ Essa é uma projeto de uma página desenvolvida pelo dev [**Iuri**](https://gith
 
 Para o desenvolvimento da página houve alguns desafios, dentre eles posso citar: a utilização  da propriedade `display flex`, manipulação das imagens e ícones, bem  como tornar a página responsiva.
 
+---
+
+![Resultado final do projeto](assets/mobile.png)
