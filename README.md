@@ -20,6 +20,6 @@ Para o desenvolvimento da página houve alguns desafios, dentre eles posso citar
 
 ---
 
-Uma visão geral do aplicativo para dispositivos móveis uma solução que oferece um projeto altamente acessível e intuitivo, proporcionando uma experiência excepcional para os usuários. 
+- Uma visão geral do aplicativo para dispositivos móveis uma solução que oferece um projeto altamente acessível e intuitivo, proporcionando uma experiência excepcional para os usuários. 
 
 ![Resultado final do projeto](assets/mobile.png)
