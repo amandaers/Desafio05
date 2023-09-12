@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    color: #F9F9F9;
+}
+body{
+    background: linear-gradient(154.76deg, #628E75 3%, #1A4855 84.12%);
+    height: 120vh;
+    width: 100%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    margin: 4rem;
+    margin-top: 3rem;
+    margin-left: 7rem;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 12vw;
+    margin-right: 10rem;
+    list-style: none;
+}
+main{
+    display: flex
+    ;
+    height: 66vh;
+    margin-top: 1rem;
+    margin-left: 7rem;
+}
+.primeira{
+    width: 40vw;
+}
+h4{
+   font-size: 20px; 
+   font-weight: 700;
+   margin-bottom: 15px;
+   letter-spacing: 2px;
+}
+h1{
+    font-size:58px ;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+p{
+    font-size:15px ;
+    font-weight: 300;
+    height: 20vh;
+    width: 35vw;
+    letter-spacing: 2px;
+}
+.segundo{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 33vw;
+   
+}
+button img{
+    width: 15px;
+    height: 18px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+button {
+    background: transparent;
+    border: 2px solid #658e76;
+    color: #F9F9F9;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    font-size: 12px;
+    transform: skew(-24deg);
+    width: 16vw;
+    height: 7vh;
+     
+  }
+  
+  button:hover {
+    cursor: pointer;
+    background-color: #658e76;
+  }
+.botao{
+    transform: skew(24deg);
+    font-weight: 400;
+    text-align: center;
+    margin: 7px;
+    display: flex;
+    margin-left: 20px;
+
+}
+
+.terceira img{
+    width: 36vw;
+    margin-left: 3rem;
+}
+@media(max-width:500px){
+    header{
+       border: 
+       2px solid;
+       width: 100%;
+       height: 12vh;
+    }
+    body{
+        width: 100%;
+        background:linear-gradient(154.76deg, #628E75 3%, #1A4855 84.12%);
+    }
+    .logo{
+        margin: 2rem;
+    }
+    li a img{
+        width: 20px;
+        height: 20px;
+        margin-right: 15px;
+    }
+    ul{
+        margin-left: 3rem;
+    }
+    main{
+        flex-direction:column-reverse;
+        height: 150vh;
+        margin-top:4rem ;
+
+    }
+    .terceira{
+
+    }
+    .terceira img{
+        width: 67vw;
+        height:50vh;
+        border: solid 2px;
+        margin-bottom: 10rem;
+        margin-left: 1rem;
+    }
+    .primeira{
+        border: 2px solid;
+       
+    }
+    h4{
+        font-size: 15px;
+        margin-top: 3rem;
+    }
+   h1{
+    font-size: 50px;
+   }
+}
