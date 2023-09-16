@@ -2,7 +2,7 @@
   🌿⛩<br>A viagem de Chihiro
 </h1>
 
-Essa é uma projeto de uma página desenvolvida pelo dev [**Iuri**](https://github.com/iuricode) à comunidade *Codelândia*. Com o objetivo de replicar através do [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=5854%3A2) uma página dedicada ao file "A viagem de Chihiro", uma obra-prima japonesa. Este README.md fornecerá uma visão geral do filme, seu enredo, personagens notáveis, permitindo assistir ao filme ou ao trailer.
+Essa é uma projeto de uma página desenvolvida pelo dev [**Iuri**](https://github.com/iuricode) à comunidade *Codelândia*. Com o objetivo de replicar através do [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=5854%3A2) uma página dedicada ao filme "A viagem de Chihiro", uma obra-prima japonesa. Este README.md fornecerá uma visão geral do filme, seu enredo, personagens notáveis, permitindo assistir ao filme ou ao trailer.
 
 ---
 
